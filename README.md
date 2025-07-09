@@ -1,7 +1,30 @@
-## 👋 Hi, I'm Azadeh Asgari
+# Hi, I'm Azadeh Asgari 👋
 
-I am a skilled Data Analyst with expertise in Python, SQL, Excel, Tableau, and Power BI. My passion is transforming complex datasets into actionable insights to enable data-driven decision-making. I have a proven track record of building engaging dashboards, conducting in-depth analyses, and communicating results to stakeholders. My curiosity and creativity extend beyond analytics, as I enjoy photography, movies, and traveling—broadening my perspective and informing my analytical approach.
+I'm a data analyst and business analyst with a background in IT support, passionate about using technology to solve real-world problems. I enjoy transforming data into actionable insights and supporting data-driven decisions.
 
+## 💼 Experience
+- **IT Support Specialist** at Inter IKEA Group
+- Developed and maintained dashboards, automated reporting, and delivered actionable insights for business stakeholders.
+
+## 🎓 Education
+- **Johannes Kepler Universität** — Data Analysis & Business Analysis
+
+## 🛠️ Skills
+- SQL, Python
+- Power BI, Tableau
+- Advanced Excel
+- Data visualization & reporting
+
+## 🌱 Currently Developing
+- Advanced analytics
+- Business process optimization
+
+## 📫 How to reach me
+- [LinkedIn](https://www.linkedin.com/in/azadeh-asgari-91aa59130)
+
+---
+
+Feel free to connect or collaborate on data-driven projects!
 ---
 
 ## 🔍 Project Highlights
